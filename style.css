@@ -1,0 +1,19 @@
+*body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+.container{
+    height: 520px;
+    width: 500px;
+    background-color: rgb(231, 104, 104);
+
+}
+/*#box{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(218, 58, 58);
+    position: absolute;*/
+}
